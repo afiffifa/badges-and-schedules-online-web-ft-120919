@@ -6,3 +6,5 @@ end
 
 def batch_badge_creator(name)
   name.map { |badges| badge_maker(badges) }
+  end
+
