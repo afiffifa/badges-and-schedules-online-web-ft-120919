@@ -1,5 +1,4 @@
 # Write your code here.
-Learn more or give us feedback
 def badge_maker(name)
   badge = "Hello, my name is #{name}."
   badge
@@ -26,4 +25,4 @@ def printer(name)
   assign_rooms(name).each do |room_assignment|
     puts room_assignment
   end
-endend
+end
