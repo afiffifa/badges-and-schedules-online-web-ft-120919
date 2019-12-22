@@ -10,4 +10,4 @@ def batch_badge_creator(name)
 
 def assign_rooms(name)
   rooms = []
-  name.each.with
+  name.each.with_index
